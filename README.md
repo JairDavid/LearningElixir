@@ -1,0 +1,2 @@
+# LearningElixir
+Just Learning elixir
