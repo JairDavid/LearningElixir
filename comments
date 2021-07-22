@@ -1,1 +1,9 @@
 #COMMENTS
+------------------Spanish---------------------
+
+Las guardas evaluan los argumentos que se le dan a la funcion, si bien se podria utilizar un if else
+para controlar los datos de entrada se pueden crear mas funciones pequeñas que controlen los mismos,
+es decir, tener N cantidad de funciones guardas que controlen los posibles valores de entrada, cabe mencionar
+que las funciones guarda se ejecutan por orden de condicion por lo que es necesario pensar 2 veces en que orden
+se colocan las funciones.
+
