@@ -1,4 +1,4 @@
-defmodule uncon do
+defmodule Uncon do
 
   #If-else reverse: this statement executes something depending on whether the state is false.
   def use_unnless do
@@ -14,7 +14,7 @@ defmodule uncon do
     cond do
       score == 0 -> "score equal than 0"
       score < 2 -> "score lower than two"
-      score => 10 -> "score major than ten"
+      score >= 10 -> "score major than ten"
       score != 120 -> "score different than one hundrer twenty"
     end
   end
