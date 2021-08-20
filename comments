@@ -7,3 +7,7 @@ es decir, tener N cantidad de funciones guardas que controlen los posibles valor
 que las funciones guarda se ejecutan por orden de condicion por lo que es necesario pensar 2 veces en que orden
 se colocan las funciones.
 
+
+----------------------------------------------
+Compilar con iex
+c("")
